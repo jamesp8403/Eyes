@@ -4,7 +4,7 @@ This is an animation that displays two eyes the move along with the curser as th
 
 ## How to run
 
-You can clone this repo and add HTML, JS, and CSS files to your system. When you load the HTML file to your browser,
+You can fork and clone this repo and add HTML, JS, and CSS files to your system. When you load the HTML file to your browser,
 the eyes will follow the cursor across the screen.
 
 ## Roadmap for Future Improvements
